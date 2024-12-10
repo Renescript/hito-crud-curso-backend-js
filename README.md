@@ -1,6 +1,6 @@
 README
 
-//Descargar repo
+#Descargar repo
 git clone https://github.com/Renescript/hito-crud-curso-backend-js.git
 
 //Instalar dependencias
