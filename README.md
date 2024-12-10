@@ -58,7 +58,7 @@ Envía una solicitud `POST` a la ruta:
 Usa las mismas credenciales registradas previamente. Esto devolverá un token de autenticación.
 
 ### 3. Actualizar nombre de usuario
-Copia el token obtenido en el paso anterior y úsalo como un Bearer Token en la cabecera de autorización. Luego, envía una solicitud `PATCH` a:
+Copia el token obtenido en el paso anterior y úsalo como un Bearer Token en la cabecera de autorización. Luego, envía una solicitud `POST` a:
 ```
 /api/v1/profile/update-name
 ```
