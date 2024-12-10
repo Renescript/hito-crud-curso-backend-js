@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "email": "test1@domain.com",
+    "password": "123123",
+    "name": "User One"
+  },
+  {
+    "id": "JeiQ6Ev9Gmuc3G7xmDy5Z",
+    "email": "test2@domain.com",
+    "password": "12341234",
+    "name": "User Two"
+  },
+  {
+    "id": "beBp4oZN7nYKDlqQH6OB5",
+    "email": "test3@domain.com",
+    "password": "12341234",
+    "name": "User Three"
+  },
+  {
+    "id": "d7CaSc_Nyv3aljf179TOS",
+    "email": "test4@domain.com",
+    "password": "$2a$10$5PVai4vexMnoz6UWrHWSkOmHFAnq8w16tD2LYn2g4rsD9F1AHPGoC",
+    "name": "User Four"
+  },
+  {
+    "id": "hyYJq51HlOT23GXAweU2W",
+    "email": "test5@domain.com",
+    "password": "$2a$10$5DQUmU0EceMbPZq8YeTdke3vZIISBbfYiIOkslQAKNeFBp0/3KAUe",
+    "name": null
+  },
+  {
+    "id": "4Ve3_uEbAWUlRji31zGKz",
+    "email": "test6@domain.com",
+    "password": "$2a$10$o5UK3BNrIzp4KKLZAyU/YOjsyNkjHLGmn3O4ePvpv/MQz9Wq7e/qK",
+    "name": null
+  },
+  {
+    "id": "phuR3tzwkdPnKQX8h3K3g",
+    "email": "test7@domain.com",
+    "password": "$2a$10$EEFp6tn5dY9Q8jPDXb5Mp.QpEm.yMlQkUOzTfiI8bBanpDQnAHOma",
+    "name": "User Seven"
+  },
+  {
+    "id": "UlJr_4jVEe9W5D_VzxnFu",
+    "email": "test9@domain.com",
+    "password": "$2a$10$lSMUHbC7SdS.rk4HFXpF0eFJMxfZJGInNaCJnQwwtkCyMm/YD9NPa",
+    "name": "User Nine"
+  },
+  {
+    "id": "Lu7SD4WoGPP9Sv3XGjn-_",
+    "email": "prueba@mail.com",
+    "password": "$2a$10$E./LGDuCl.A2857P5UP9H.q46rGfhJFG4CYX2AHvaz5MQ2/lAKWWK",
+    "name": "Juanito 2"
+  }
+]
