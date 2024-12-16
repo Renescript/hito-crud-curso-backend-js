@@ -3,7 +3,7 @@ import { User } from "../interfaces/user.interface";
 
 const getAllUsers = async () => {
     const { rows } = await pool.query(`SELECT * from users`)
-    return rows[0];
+    return rows;
 }
 
 const getByEmail = async (email: string) => {
@@ -13,7 +13,7 @@ const getByEmail = async (email: string) => {
     }
     const { rows } = await pool.query(query)
 
-    return rows[0];
+    return rows[0] || null;
 }
 
 const create = async(email: string, password: string) => {

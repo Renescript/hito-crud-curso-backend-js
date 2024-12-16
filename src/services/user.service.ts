@@ -10,7 +10,12 @@ const getAllUsers = async () => {
 
 const getUserByEmail = async (email:string) =>{
     const user = await UserModel.getByEmail(email);
-    return user
+
+    if (!user) {
+        throw new Error(`User with email ${email} not found`);
+    }
+    return user;
+
 }
 
 const createUserWithEmailAndPassword = async (email: string, password: string) => {
